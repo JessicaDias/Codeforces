@@ -1,4 +1,4 @@
-#Problema do escalonamento de intervalos
+#Problema do escalonamento de intervalos (Agendamento)
 #Ordena pelo final e conta quantos são menor e igual
 pairs = []
 cont = 1
