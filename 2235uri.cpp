@@ -14,7 +14,6 @@ int main() {
             r = 1;
         }
     }
-
     if (r == 1){
         cout << "S" << endl;
     } else {
